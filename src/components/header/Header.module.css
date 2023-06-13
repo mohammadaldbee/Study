@@ -33,3 +33,11 @@
   pointer-events: none;
   color: #aaa;
 }
+input::placeholder {
+  color: white !important;
+  border: none;
+}
+input:hover {
+  background-color: white !important;
+  border: none;
+}
