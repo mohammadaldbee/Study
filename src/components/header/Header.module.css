@@ -1,0 +1,35 @@
+.header {
+  color: white;
+}
+
+.header a {
+  color: white;
+}
+.navColor:hover {
+  color: #aaa !important;
+}
+.hh {
+  background-color: aliceblue;
+}
+.search {
+  background: #191e2e;
+  border: none;
+  color: #fff !important;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.searchIcon {
+  position: absolute;
+  z-index: 2;
+
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: start;
+  pointer-events: none;
+  color: #aaa;
+}
